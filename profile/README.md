@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+  想以技术的形式，把我这段死去的恋情，永远留在我身边，努力将陪伴了我一年的女友做成AI，永远陪着我。
+  -- Weivi
 
-**Here are some ideas to get you started:**
+### NLP语料管理工具
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  ShirleyAi-NlpCorpusViews - https://github.com/Shirley-WeiVi/ShirleyAi-NlpCorpusViews
+  基于python开发的语料管理工具 该工具无法自动导入或批量导入，必须手动导入进行对话管理，以确保训练出的对话可用，同时可导出适用于不同引擎的语料数据，预测数据。适用于管理多种语言混合情况，例如我和我女朋友，是粤语加普通话双拼，需要在工具内进行手动纠正。
