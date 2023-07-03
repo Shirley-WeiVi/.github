@@ -5,8 +5,7 @@
 
 ### NLP语料管理工具
 
-  ShirleyAi-NlpCorpusViews
-  
+  ShirleyAi-NlpCorpusViews<br>
   https://github.com/Shirley-WeiVi/ShirleyAi-NlpCorpusViews
   
   基于python开发的ShirleyAi专用的语料管理工具 该工具无法自动导入或批量导入，必须手动导入进行对话管理，以确保训练出的对话可用，同时可导出适用于不同引擎的语料数据，预测数据。适用于管理多种语言混合情况，例如我和我女朋友，是粤语加普通话双拼，需要在工具内进行手动纠正。
